@@ -1,4 +1,4 @@
-from utils import ExtractToDecimal as ex
+from utils import Extract as ex
 import os
 
 ex = ex()
