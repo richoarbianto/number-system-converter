@@ -33,7 +33,7 @@ No special setup is required since this project does not use any external Python
 
 2. **Run the program**
    ```bash
-   python converter.py
+   python main.py
    ```
 
 ## How It Works
